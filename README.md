@@ -47,7 +47,8 @@ Gif para adornar los .md de los proyecto.
 ![Gato](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 
-![Code1](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Meme progra](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 ![Code2](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 ![Code3](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 ![Code4](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
