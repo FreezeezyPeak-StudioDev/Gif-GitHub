@@ -8,4 +8,7 @@ Gif para adornar los .md de los proyecto.
 
 ![OSO](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
+![Pixel](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+
+![q](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
