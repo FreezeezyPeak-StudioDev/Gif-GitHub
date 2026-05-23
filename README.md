@@ -34,9 +34,11 @@ Gif para adornar los .md de los proyecto.
 
 ![Gato :D](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-![SOF3](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
-![SOF4](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
-![SOF5](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+![Meme pc](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
+
+![Meme numero ](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+
+![](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
 
 
