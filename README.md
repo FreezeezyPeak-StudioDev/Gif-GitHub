@@ -73,9 +73,8 @@ Gif para adornar los .md de los proyecto.
 
 ![Enemigo de maduro](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
-![Retro4](https://media.giphy.com/media/xT0BKCQJDzWGaW9Bny/giphy.gif)
 
-![Retro5](https://media.giphy.com/media/3o7TKsQ8UQ4sE0gMNO/giphy.gif)
+![Horror1](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
 
 
