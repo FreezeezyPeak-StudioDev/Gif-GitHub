@@ -14,5 +14,12 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme Explocion](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) 
 
-![GD3](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Cargando XD](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+
+![GD4](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+
+
+
+
 
