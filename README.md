@@ -12,6 +12,7 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme Fiesta](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-![GD2](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Meme Explocion](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) 
 
+![GD3](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
