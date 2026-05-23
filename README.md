@@ -57,12 +57,23 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme Progra](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
-![Hack1](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
-![Hack2](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
-![Hack3](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
-![Hack4](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
-![Hack5](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+![Meme matrix](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
 
+![Gato](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
+
+![Meme Matematica](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+
+![Meme Progra](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+
+![Meme Gato](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+
+
+
+![Retro1](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+![Retro2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Retro3](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+![Retro4](https://media.giphy.com/media/xT0BKCQJDzWGaW9Bny/giphy.gif)
+![Retro5](https://media.giphy.com/media/3o7TKsQ8UQ4sE0gMNO/giphy.gif)
 
 
 
