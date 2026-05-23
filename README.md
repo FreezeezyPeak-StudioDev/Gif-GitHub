@@ -38,7 +38,17 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme numero ](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
 
-![](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+![Meme Bob Sponaja](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+
+![FNAF1](https://media.giphy.com/media/11GdBibqqMOXkc/giphy.gif)
+![FNAF2](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![FNAF3](https://media.giphy.com/media/l0MYu5sm4tQ7h1WGA/giphy.gif)
+![FNAF4](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![FNAF5](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+
+
+
 
 
 
