@@ -27,9 +27,9 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme PC](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
-![Forest4](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Meme porfavor](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-![Forest5](https://media.giphy.com/media/3orieTfp1MeFLiBQR2/giphy.gif)
+
 
 
 
