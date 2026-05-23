@@ -74,7 +74,10 @@ Gif para adornar los .md de los proyecto.
 ![Enemigo de maduro](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 
-![Horror1](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+![Meme del calbo](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+
+![Horror2](https://media.giphy.com/media/3o6ZsY8sR4WkOyQJm0/giphy.gif)
+
 
 
 
