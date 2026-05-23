@@ -76,8 +76,15 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme del calbo](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
-![Horror4](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Horror5](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
+![Meme progra](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+![Meme misterio](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
+
+
+![Extra1](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![Extra2](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+
+
 
 
 
