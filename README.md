@@ -23,10 +23,12 @@ Gif para adornar los .md de los proyecto.
 
 ![No se que dise en ingles pero esta genial](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
-![Forest2](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Meme PC](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
-![Forest3](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+![Meme PC](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
 ![Forest4](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ![Forest5](https://media.giphy.com/media/3orieTfp1MeFLiBQR2/giphy.gif)
 
 
