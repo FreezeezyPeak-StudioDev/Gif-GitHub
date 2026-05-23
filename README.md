@@ -10,7 +10,7 @@ Gif para adornar los .md de los proyecto.
 
 ![Tecnologia](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
 
-![Meme Fiesta](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Brillo decorativo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ![Meme Explocion](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) 
 
