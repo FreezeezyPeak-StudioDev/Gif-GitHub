@@ -49,8 +49,10 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme progra](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-![Code2](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
-![Code3](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+![Meme Progra](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+
+![Meme Progra](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+
 ![Code4](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ![Code5](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
