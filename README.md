@@ -44,8 +44,7 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme Hora](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-![FNAF4](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-![FNAF5](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![Gato](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 
 
