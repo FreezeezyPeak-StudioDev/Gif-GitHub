@@ -70,10 +70,8 @@ Gif para adornar los .md de los proyecto.
 
 
 ![Retro1](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
-![Retro2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-![Retro3](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
-![Retro4](https://media.giphy.com/media/xT0BKCQJDzWGaW9Bny/giphy.gif)
-![Retro5](https://media.giphy.com/media/3o7TKsQ8UQ4sE0gMNO/giphy.gif)
+
+
 
 
 
