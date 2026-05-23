@@ -53,9 +53,15 @@ Gif para adornar los .md de los proyecto.
 
 ![Meme Progra](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
-![Code4](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-![Code5](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
+![Meme Progra](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
+![Meme Progra](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
+
+![Hack1](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
+![Hack2](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
+![Hack3](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Hack4](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+![Hack5](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
 
 
