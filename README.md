@@ -1,13 +1,31 @@
-# 🎞️ GIF-GitHub
+# GIF-GitHub
 
-Colección de **GIFs para decorar los archivos `.md` de mis proyectos**, especialmente README de GitHub.
-Incluye memes, programación, tecnología, gatos, animaciones y otros GIFs para darle un poco de personalidad a los proyectos. 😎
+Colección de GIFs para utilizar en archivos **Markdown (`.md`)**, especialmente en README de GitHub.
+
+Puedes utilizar estos GIFs para decorar proyectos, documentaciones, perfiles, repositorios y otros archivos Markdown.
 
 ---
 
-## 🌌 Tecnología & Ciencia
+## Índice
 
-![TON 618](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+* [Tecnología](#tecnología)
+* [Programación](#programación)
+* [Computadoras](#computadoras)
+* [Memes](#memes)
+* [Gatos](#gatos)
+* [Animales](#animales)
+* [Series y videojuegos](#series-y-videojuegos)
+* [Ciencia y espacio](#ciencia-y-espacio)
+* [Matemáticas](#matemáticas)
+* [Animaciones](#animaciones)
+* [Decoración](#decoración)
+* [Reacciones](#reacciones)
+* [Otros](#otros)
+* [Uso](#uso)
+
+---
+
+## Tecnología
 
 ![Tecnología](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
 
@@ -17,7 +35,7 @@ Incluye memes, programación, tecnología, gatos, animaciones y otros GIFs para 
 
 ---
 
-## 💻 Programación
+## Programación
 
 ![Meme de programación](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -37,47 +55,47 @@ Incluye memes, programación, tecnología, gatos, animaciones y otros GIFs para 
 
 ---
 
-## 🖥️ PC & Tecnología
+## Computadoras
 
-![Meme PC](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Meme de PC](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
-![Meme PC](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+![Meme de PC](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
-![Meme PC](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
+![Meme de PC](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
 
-![Meme PC](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+![Meme de PC](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
 
 ![Cargando](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
-## 😂 Memes
+## Memes
 
 ![Rick and Morty](https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif)
 
-![Meme explosión](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Meme de explosión](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ![Meme](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
 
 ![Meme](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
-![Meme por favor](https://media.giphy.com/media/3orieTfp1MeFLiBQR2/giphy.gif)
+![Meme](https://media.giphy.com/media/3orieTfp1MeFLiBQR2/giphy.gif)
 
 ![Meme 404](https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif)
 
-![Meme hora](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Meme de hora](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-![Meme misterio](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
+![Meme de misterio](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
 
 ![Meme contando](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
 
-![Meme chido](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+![Meme](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
 
 ![Meme pirata](https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif)
 
 ---
 
-## 🐱 Gatos
+## Gatos
 
 ![Gato](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
@@ -85,11 +103,17 @@ Incluye memes, programación, tecnología, gatos, animaciones y otros GIFs para 
 
 ![Gato](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
 
-![Meme gato](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+![Meme de gato](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
 ---
 
-## 🎬 Series, películas & videojuegos
+## Animales
+
+![Oso](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+
+---
+
+## Series y videojuegos
 
 ![Bob Esponja](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
@@ -97,38 +121,74 @@ Incluye memes, programación, tecnología, gatos, animaciones y otros GIFs para 
 
 ---
 
-## ✨ Decorativos
+## Ciencia y espacio
 
-![Oso](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
-
-![Brillo decorativo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![TON 618](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
 
 ---
 
-## 🔢 Matemáticas
+## Matemáticas
 
 ![Meme matemático](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 
 ---
 
-## 🗃️ Otros
+## Animaciones
 
-![Meme](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+![Animación](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 
-![Meme](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+![Animación](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 ---
 
-### 📌 Uso
+## Decoración
 
-Puedes copiar cualquier GIF directamente desde este archivo y utilizarlo en tus proyectos Markdown:
+![Brillo decorativo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+---
+
+## Reacciones
+
+![Reacción](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+
+![Reacción](https://media.giphy.com/media/3orieTfp1MeFLiBQR2/giphy.gif)
+
+---
+
+## Otros
+
+![Meme](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+
+![Meme](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+
+---
+
+## Uso
+
+Para utilizar cualquiera de los GIF en un archivo Markdown, copia el siguiente formato:
 
 ```md
-![Descripción](URL_DEL_GIF)
+![Descripción del GIF](URL_DEL_GIF)
 ```
 
-> 💡 Colección personal de GIFs para proyectos de GitHub.
+Por ejemplo:
 
+```md
+![Gato](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+```
 
+También puedes utilizar los GIF directamente en archivos `README.md`, documentación, perfiles y otros proyectos compatibles con Markdown.
+
+---
+
+## Contribuciones
+
+Si deseas agregar nuevos GIFs a la colección, puedes contribuir al repositorio agregando contenido que sea apropiado para su uso en Markdown.
+
+---
+
+## Licencia
+
+Revisa los derechos de uso de cada GIF antes de utilizarlo en proyectos públicos o comerciales. Esta colección únicamente facilita su organización y referencia.
 
 
